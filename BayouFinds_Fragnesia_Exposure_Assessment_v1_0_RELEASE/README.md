@@ -56,6 +56,13 @@ chmod +x fragnesia-assessment.sh
 | 1 | Warning/moderate indicators |
 | 2 | High-risk indicators |
 | 3 | Cancelled or missing required acknowledgment |
+## Optional Download Package
+
+A packaged release version including documentation,
+example reports, release artifacts, and commercial support files
+is available here:
+
+https://bayoufinds.com/b/GBL26
 
 © 2026 BayouFinds.com
 
