@@ -1,5 +1,5 @@
 # BayouFinds Fragnesia Exposure Assessment
-
+![Hero](./screenshots/hero.png)
 A lightweight Linux operational exposure assessment toolkit for reviewing observable XFRM/IPsec-related runtime indicators.
 
 ## What It Does
