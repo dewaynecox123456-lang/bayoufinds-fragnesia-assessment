@@ -1,0 +1,10 @@
+BayouFinds Fragnesia Exposure Assessment
+Copyright © 2026 BayouFinds.com
+
+Permission is granted to use this software for personal and internal operational assessment purposes.
+
+Redistribution, resale, modification, or repackaging without written permission from BayouFinds.com is prohibited.
+
+This software is provided "AS IS" without warranty of any kind.
+
+Use at your own risk.
